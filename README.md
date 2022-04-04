@@ -1,6 +1,6 @@
 ## Hi :-) Welcome to my github
 ```diff
-+ Tech that I'm currently proficient with and love using: 
++ Tech that I'm proficient with and love using: 
 ```
 <p float="left">
 <img width="134" alt="typescript" src="https://user-images.githubusercontent.com/44987246/161546309-0412da10-a1ce-483e-a811-4aabef3749bb.png">

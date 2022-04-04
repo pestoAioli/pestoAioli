@@ -1,6 +1,7 @@
-## Hey :-) Welcome to my github
-
-### Tech that I'm currently proficient with and love using: 
+## Hi :-) Welcome to my github
+```diff
++ Tech that I'm currently proficient with and love using: 
+```
 <p float="left">
 <img width="227" alt="typescript" src="https://user-images.githubusercontent.com/44987246/161546309-0412da10-a1ce-483e-a811-4aabef3749bb.png">
  <img width="244" alt="react" src="https://user-images.githubusercontent.com/44987246/161547861-328f83e6-5e4c-48f7-a78f-db073fad1ca5.jpeg">
@@ -15,7 +16,9 @@
 <img width="233" alt="Screen Shot 2022-04-04 at 3 19 18 PM" src="https://user-images.githubusercontent.com/44987246/161552668-6dc20403-6eb1-4cb1-92ea-be1cd49a54c9.png">
 </p>
 
-### Tech that I'm currently learning and very excited about:
+```diff
+@@ Tech that I'm currently learning and very excited about: @@
+```
 <p float="left">
   <img width="447" alt="elixir" src="https://user-images.githubusercontent.com/44987246/161553612-57e01ba6-d4ae-47e4-be85-8ce9eb56b4b7.png">
   <img width="406" alt="webGL" src="https://user-images.githubusercontent.com/44987246/161553714-0c38727d-c6a6-4df6-b268-9a808b8a7155.png">

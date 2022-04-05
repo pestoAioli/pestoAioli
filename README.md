@@ -1,4 +1,3 @@
-## Hi :-) Welcome to my github
 ```diff
 + What I've been using lately: 
 ```

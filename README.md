@@ -12,7 +12,6 @@
     <img width="148" alt="sql" src="https://user-images.githubusercontent.com/44987246/161551704-5a759b72-ab81-4b77-a2ab-dfeac23f54e1.png">
 <img width="188" alt="prisma" src="https://user-images.githubusercontent.com/44987246/161580298-cc11229e-881e-49fd-a2ef-958300358f85.png">
   <img width="282" alt="tailwind" src="https://user-images.githubusercontent.com/44987246/161550062-fe212239-411c-4473-84fe-79dd6bd6b20b.png">
-  <img width="256" alt="express" src="https://user-images.githubusercontent.com/44987246/161548341-aca5aee0-a294-49a0-82a8-cf9373ee852a.png">
 </p>
 
 ```diff

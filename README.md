@@ -1,5 +1,5 @@
 ```diff
-+ what I've been using lately: 
++ what I've been using lately
 ```
 <p float="left">
 <img width="134" alt="typescript" src="https://user-images.githubusercontent.com/44987246/161546309-0412da10-a1ce-483e-a811-4aabef3749bb.png">
@@ -15,7 +15,7 @@
 </p>
 
 ```diff
-@@ currently learning and very excited about: @@
+@@ currently learning and very excited about @@
 ```
 <p float="left">
   <img width="227" alt="elixir" src="https://user-images.githubusercontent.com/44987246/161553612-57e01ba6-d4ae-47e4-be85-8ce9eb56b4b7.png">

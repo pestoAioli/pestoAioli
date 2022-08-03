@@ -5,7 +5,7 @@
 ! and lately I've been falling in love with Functional programming through learning Elixir <3. 
 ! I firmly believe that concurrency and low-latent/fault-tolerant systems are fundamental to creating a better 
 ! Web for everyone, and I'm excited to grow within this space. 
-! Thanks for stopping by, feel free to email me with any questions/inquiries!
+! Thanks for stopping by!
 ```
 ```diff
 + what I've been using lately

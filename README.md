@@ -1,5 +1,9 @@
 ```diff
-! Hi! My name is Ricardo, but most everyone calls me Ricky :-) I'm an artist and software engineer with a special knack for all thing UX <3. I've built projects using industry leading tools/technologies within the Javascript/ Web development ecosystem, and lately I've been falling in love with Functional programming within the context of Elixir <3. I firmly believe that concurrency and low-latent/fault-tolerant systems are at the core of understanding UX.
+! Hi! My name is Ricardo, but most everyone calls me Ricky :-) 
+! I'm an artist and software engineer with a special knack for all thing UX <3. 
+! I've built projects using industry leading tools/technologies within the Javascript/ Web development ecosystem, 
+! and lately I've been falling in love with Functional programming within the context of Elixir <3. 
+! I firmly believe that concurrency and low-latent/fault-tolerant systems are at the core of understanding UX.
 ```
 ```diff
 + what I've been using lately

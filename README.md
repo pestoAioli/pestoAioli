@@ -3,7 +3,8 @@
 ! I'm an artist and software engineer with a special knack for all things UX <3. 
 ! I've built projects using industry leading tools/technologies within the Javascript/ Web development ecosystem, 
 ! and lately I've been falling in love with Functional programming through learning Elixir <3. 
-! I firmly believe that concurrency and low-latent/fault-tolerant systems are at the core of understanding UX.
+! I firmly believe that concurrency and low-latent/fault-tolerant systems are fundamental to creating a better Web for everyone, and I'm excited to 
+! grow within this space. Thanks for stopping by, feel free to email me with any questions/inquiries!
 ```
 ```diff
 + what I've been using lately

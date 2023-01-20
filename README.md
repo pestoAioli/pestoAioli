@@ -1,4 +1,4 @@
 ```diff
-@@ artist, loves cats(and dogs), gamer, karaoke allstar @@
+@@ artist, love cats(and dogs), gamer, skater, chef, karaoke allstar @@
 
 ```
